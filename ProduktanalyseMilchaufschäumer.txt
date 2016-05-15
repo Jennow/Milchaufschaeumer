@@ -56,20 +56,20 @@ Vergleich/Tests
 Milchaufschäumer
 
 
-Pro 													Contra
+Pro 								Contra
 
-- passt in jedes Gefäß									- spritzt
-- Schaum entsteht schneller								- falsche Haltung = Sauerei
-- Schaum hält länger an									- Batterien werden benötigt
-- elektrisch												(regelmäßige Nutzung = schnell leer, zusätzliche Kosten)
-- angenehme Haltung										- Technik kann kaputt gehen
+- passt in jedes Gefäß						- spritzt
+- Schaum entsteht schneller					- falsche Haltung = Sauerei
+- Schaum hält länger an						- Batterien werden benötigt
+- elektrisch							(regelmäßige Nutzung = schnell leer, zusätzliche Kosten)
+- angenehme Haltung						- Technik kann kaputt gehen
 - keine Anstrengung beim rühren/Handschmerzen			- nicht Spülmaschinenfest
 - weniger Aufwand
 - günstig
 - passt sich der Hand an
 - angenehme Oberfläche 
 - schnell zu säubern 
-	(Kopf in Wasser halten, Gerät betätigen)
+  (Kopf in Wasser halten, Gerät betätigen)
 - grobe Stückchen lösen sich auf
 - stabil
 
@@ -77,16 +77,16 @@ Pro 													Contra
 vs Schneebesen
 
 
-Pro														Contra
+Pro								Contra
 
-- günstig												- langsamer
-- benötig keine Batterien								- weniger Schaum
-- keine Technik 										- Schaum verschwindet schnell wieder
+- günstig							- langsamer
+- benötig keine Batterien					- weniger Schaum
+- keine Technik 						- Schaum verschwindet schnell wieder
 - größere/festere Mengen gleichmäßig verühren			- passt nicht in schmale Gefäße
-- kann auch beim backen verwendet werden				- anstrengend beim rühren/Handschmerzen
-- einfaches halten durch lange/runden Griff				- zu dolles rühren = Sauerei
-- Spülmaschinenfest										- kalte/glatte Oberfläche
-- stabil												- schwierige Säuberung durch einzelne Stäbe und enge Zwischenräume
+- kann auch beim backen verwendet werden			- anstrengend beim rühren/Handschmerzen
+- einfaches halten durch lange/runden Griff			- zu dolles rühren = Sauerei
+- Spülmaschinenfest						- kalte/glatte Oberfläche
+- stabil							- schwierige Säuberung durch einzelne Stäbe und enge 									  Zwischenräume
 														- grobe Stückchen bleiben bestehen
 
 
