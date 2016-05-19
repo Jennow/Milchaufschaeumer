@@ -1,68 +1,39 @@
-Milchaufschäumer - Produktanalyse
+Milchaufschäumer – Produktanalyse
 
-Der elektrische Milchaufschäumer der Firma Severin zum aufschäumen und vermengen von Flüssigkeiten, wie zum Beispiel Milch und Soßen.
-Es handelt sich hierbei, um eine Art kleiner Schneebesen, der durch einen Motor in Rotation versetzt wird.
-Er schafft bis zu 11.500 Umdrehungen die Minute.
-Unseren Milchaufschäumer haben wir von Amazon für 7,99€ gekauft, aber sie sind auch schon ab 3,99€ erhältlich.
-Es gibt sie in den verschiedensten Farben und Formen.
-Weiterhin gibt es neben dem batteriebetriebenen Milchaufschäumer, einen automatischen und einen manuellen Milchaufschäumer.
-Die Länge des kompletten Aufschäumers beträgt 23cm. Der Grundkörper ist 13cm lang, die Stange aus Metall 10cm und der Kopf 0,5cm.
-
-
-
+Der elektrische Milchaufschäumer der Firma Severin dient zum Aufschäumen und Vermengen von Flüssigkeiten, wie zum Beispiel Milch oder Soßen. Hierbei handelt es sich um eine Art kleinen Schneebesen, der durch einen Motor in eine schnelle Rotation versetzt wird und dabei bis zu 11.500 Umdrehungen pro Minute erreicht. Unseren Milchaufschäumer haben wir von Amazon für 7,99€ gekauft, aber sie sind auch schon zu einem geringeren Preis (ab 3,99€) in verschiedensten Farben und Formen erhältlich. Zudem gibt es neben dem batteriebetriebenen auch automatische und manuelle Milchaufschäumer. Die Länge des kompletten Aufschäumers beträgt 23cm. 
+ 
 Details 
+ ### Grundkörper ####
 
-Grundkörper:
+Der 13 cm lange Grundkörper hat eine kegelartige Form. Er läuft nach unten leicht spitz zu und besitzt oben den größten Durchmesser. Die Grundfarbe ist in einem satten Magenta Ton gehalten, was einen hohen Erkennungswert im Gegensatz zu anderen Küchenutensilien hat, die meist eher schlicht gehalten sind. Die Details, wie der Betätigungsknopf, der sich zentral auf dem Grundkörper befindet, die Verschlusskappe, die ganz oben den Körper abschließt und jegliche Beschriftungen sind schwarz. Es wurden also nur Farben verwendet, dadurch wirkt das Gerät sehr schlicht, modern und elegant. Etwa einen Zentimeter unter der Verschlusskappe wird der Grundkörper sehr schmal und dann langsam wieder breiter. Dies soll für eine ergonomische Handhabung sorgen indem sich das Gerät der Hand anpasst. Außerdem besitzt der gesamte Grundkörper eine gummierte Soft-Touch-Oberfläche und fühlt sich dadurch samtartig weich an und ist resistent gegen Kratzer.
 
+Verschlusskappe:
+Die Verschlusskappe verbirgt eine Öffnung, in der zwei AA Batterien zur Stromversorgung Platz finden. Diese betreiben den Motor, der sich innerhalb des Grundkörpers befindet. Die Kappe lässt sich leicht durch Drehen öffnen. Um sie wieder zu schließen gibt es einen kleinen Hilfshinweis in Form einer Markierung jeweils an der Kappe und am Grundkörper. Drückt man sie an ihren Markierungen aneinander, verriegelt sich der Verschluss und das Gerät ist wieder nutzbar.
 
-Am Ende des Grundkörpers befindet sich eine Öffnung für die Batterien.
-Diese lässt sich leicht durch einmal Drehen öffnen.
-Um sie wieder zu schließen gibt es einen kleinen Hilfshinweis. 
-Am Deckel und am Grundkörper befindet sich jeweils ein Strich, wenn man diese aufeinander drückt, schließt sich die Öffnung wieder.
-Im inneren des Grundkörpers befindet sich der batteriebetriebene Motor.
-Weiterhin hat der Grundkörper eine gummierte Soft-Touch-Oberfläche und fühlt sich dadurch samtartig weich an.
-Durch diese Oberfläche können Kratzer vermieden werden.
-Links und rechts des Grundkörpers befinden sich zwei Einkerbungen. 
-Diese dienen zur einfachen Handhabung, passen sich der Handhaltung an und das Gerät ist griffiger.
-Auch der Puls-Schalter besitzt eine Einkerbung, diese passt sich der Fingerkuppe an.
-Der Knopf ist leicht zu bedienen, da man ihn nur leicht drücken muss. 
-Daher handelt es sich bei dem Grundkörper insgesamt um ein ergonomisches Design.
-Die Dinge die man öffnen und betätigen kann sind durch die schwarze Farbe erkennbar gemacht worden. 
-Der Rest des Grundkörpers ist in einem dunklen pink gehalten, dieses ist durch die Abdunklung zurückhaltend, aber dennoch auffallend.
-Es gibt nur zwei Farben, die verwendet worden sind, daher wirkt das Gerät sehr schlicht, modern und elegant.
-Auf der Rückseite befindet sich ein Text mit Informationen. Dort ist die Firma und deren Standort vertreten. 
-Die Artikelnummer und der Typ stehen dort. Es ist bildlich dargestellt, dass es sich um ein Strom betriebenes Gerät handelt und es die CE-Norm erfüllt.
-Die Volt- und MilliAmper-Zahl und die Entsorgung ist als Bild dargestellt.
-Weiterhin wurde eine Mitarbeiternummer in das Gerät gestanzt.
+Betätigungsknopf:
+Es gibt einen einzigen ovalen Knopf am Gerät, der ca. eine Fläche von 2x1 cm besitzt und zentral und gut mit dem Daumen erreichbar positioniert ist. Genauer handelt es sich um einen Pulse-Schalter, der das Gerät genauso lange betätigt, wie er gedrückt wird. Es gibt weder verschiedene Einstellungen noch eine Einrastfunktion. Der Knopf lässt sich aber dank seines ergonomischen Designs zwecks runder Einkerbung für den Daumen und seines sehr leichten Widerstandes angenehm auch über einen längeren Zeitraum drücken. Durch dieses minimalistische Element lässt sich das Gerät von jedem sofort bedienen, ohne dass ein Blick in die Anleitung nötig wäre. 
 
-Stange:
+Beschriftungen:
+Etwa zwei Zentimeter unter dem Knopf befindet sich eine Abwandlung des Logos der Firma Severin in großen Druckbuchstaben. Der ansonsten blaue Schriftzug wurde hier passend zum Farbschema des Milchaufschäumers in schwarz gewählt und es wurde auf das Unterstreichen des Schriftzuges verzichtet, um das minimalistische Design widerzuspiegeln. (Hier eventuell Severin Logo zum Vergleich einfügen?)
+Auf der Rückseite befindet sich ein kompakter Text mit den wichtigsten Informationen. Unter anderem sind das die Firma und deren Standort, die Artikelnummer und der Typ. Zudem ist bildlich dargestellt, dass es sich um ein mit Strom betriebenes Gerät handelt und dass es die CE-Norm erfüllt, welches nicht im Haushaltsmüll entsorgt werden sollte(WEEE-Kennzeichnung). Die Volt- und Milliampere-Zahl werden außerdem dort abgebildet. Weiterhin wurde eine Mitarbeiternummer in das Gerät gestanzt.
+
+#### Stange ####
+Die 10 cm lange Stange mit einem Durchmesser von ca. 1mm dient als Verbindungsstück zwischen Grundkörper und Kopf des Gerätes. Das Material der Stange ist Edelstahl und daher ist sie recht stabil und glänzt in dem für dieses Material typischen Silber. Die Länge der Stange wurde passend gewählt, um auch in höheren, schmalen Gefäßen problemlos arbeiten zu können.
+
+### Kopf ###
+Der Kopf des Gerätes ist ebenfalls komplett aus Edelstahl. Seine Form besteht aus einem Ring, der die Verlängerung der Stange ist und von einer spiralförmigen Feder umhüllt wird. Das Gebilde hat einen Durchmesser von ca. 1,7 cm und ist ca. 0,5cm hoch.
+Es wird rotiert und ist dadurch der Bestandteil des Geräts, der aktiv die Flüssigkeit aufschäumt oder vermengt.
 
 
-Die Stange dient als Verbindungsstück zwischen Grundkörper und Kopf des Gerätes.
-Sie ist auch dafür da, um für höhere und schmale Geräte verwendet zu werden. 
-Das Material der Stange ist Edelstahl und daher recht stabil. 
-
-Kopf:
-
-Der Kopf wird rotiert und ist dadurch der Hauptbestandteil, der die Flüssigkeit aufschäumt oder vermengt.
-Die Stange ist dort einmal abgeknickt worden und wurde zu einem Kreis gebogen.
-Um diesen Kreis befindet sich eine Feder aus Edelstahl. Durch dieses Material und die Form ist der Kopf ebenfalls sehr stabil. 
-
-
-
-Vergleich/Tests
-
-
+#### Vergleich/Tests ###
 Milchaufschäumer
-
-
 Pro 								Contra
 
 - passt in jedes Gefäß						- spritzt
-- Schaum entsteht schneller					- falsche Haltung = Sauerei
+- Schaum entsteht schneller					- falsche Haltung führt zu Sauerei
 - Schaum hält länger an						- Batterien werden benötigt
 - elektrisch							(regelmäßige Nutzung = schnell leer, zusätzliche Kosten)
-- angenehme Haltung						- Technik kann kaputt gehen
+- angenehme Haltung						- Technik kann kaputtgehen
 - keine Anstrengung beim rühren/Handschmerzen			- nicht Spülmaschinenfest
 - weniger Aufwand
 - günstig
@@ -82,11 +53,10 @@ Pro								Contra
 - günstig							- langsamer
 - benötig keine Batterien					- weniger Schaum
 - keine Technik 						- Schaum verschwindet schnell wieder
-- größere/festere Mengen gleichmäßig verühren			- passt nicht in schmale Gefäße
-- kann auch beim backen verwendet werden			- anstrengend beim rühren/Handschmerzen
-- einfaches halten durch lange/runden Griff			- zu dolles rühren = Sauerei
+- größere/festere Mengen gleichmäßig verrühren			- passt nicht in schmale Gefäße
+- kann auch beim Backen verwendet werden			- anstrengend beim rühren/Handschmerzen
+- einfaches halten durch lange/runden Griff			- zu starkes Rühren führt zu Sauerei
 - Spülmaschinenfest						- kalte/glatte Oberfläche
-- stabil							- schwierige Säuberung durch einzelne Stäbe und enge 									  Zwischenräume
-														- grobe Stückchen bleiben bestehen
-
+- stabil							- schwierige Säuberung durch einzelne Stäbe und enge 										 Zwischenräume
+								- grobe Stückchen bleiben bestehen
 
